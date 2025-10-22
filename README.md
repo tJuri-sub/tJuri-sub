@@ -1,5 +1,4 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on **To do list app**
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I’m currently working on **POS system**
 
