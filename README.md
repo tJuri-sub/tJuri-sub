@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bb2a9d90-ab4f-4d52-8877-28fdd1c4488a" /><p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=01082D&height=100&section=header&text=Hey,%20Welcome!&fontSize=70&fontColor=FFFFFF" />
 </p>
 
